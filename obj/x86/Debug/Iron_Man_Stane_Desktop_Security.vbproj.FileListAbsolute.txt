@@ -1,0 +1,31 @@
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\qwdwq\bin\Debug\ctrl.exe.config
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\bin\Debug\ctrl.exe.config
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\bin\Debug\ctrl.exe.manifest
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\bin\Debug\ctrl.application
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\bin\Debug\ctrl.exe
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\bin\Debug\ctrl.pdb
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\bin\Debug\ctrl.xml
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\zScreenLocker.Form1.resources
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\zScreenLocker.Form2.resources
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\zScreenLocker.Resources.resources
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\Iron_Man_Stane_Desktop_Security.vbproj.GenerateResource.Cache
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\ctrl.exe.manifest
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\ctrl.application
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\ctrl.exe
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\ctrl.xml
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\New folder\obj\x86\Debug\ctrl.pdb
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\Iron_Man_Stane_Desktop_Security.vbproj.GenerateResource.Cache
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\bin\Debug\ironman_locker.exe.config
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\ironman_Stane_locker.Form1.resources
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\ironman_Stane_locker.Form2.resources
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\bin\Debug\ironman_locker.exe.manifest
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\bin\Debug\ironman_locker.application
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\bin\Debug\ironman_locker.exe
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\bin\Debug\ironman_locker.pdb
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\bin\Debug\ironman_locker.xml
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\ironman_Stane_locker.Resources.resources
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\ironman_locker.exe.manifest
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\ironman_locker.application
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\ironman_locker.exe
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\ironman_locker.xml
+C:\Users\Prakritee\Documents\Visual Studio 2013\Projects\Iron_Man_Stane_Desktop_Security\obj\x86\Debug\ironman_locker.pdb
